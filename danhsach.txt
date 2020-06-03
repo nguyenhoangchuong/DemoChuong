@@ -6,4 +6,8 @@ nguyen thanh quang 11
 =======
 nguyen thanh quang 1998
 >>>>>>> master
+<<<<<<< HEAD
 abc
+=======
+def
+>>>>>>> master
