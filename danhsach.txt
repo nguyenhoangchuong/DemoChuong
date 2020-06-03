@@ -1,4 +1,8 @@
 nguyen hoang chuong 
 nguyen thanh tan
 Le nhat duy 
+<<<<<<< HEAD
 nguyen thanh quang 11
+=======
+nguyen thanh quang 1998
+>>>>>>> master
